@@ -1,0 +1,2 @@
+# ECOSIT
+Criada a partir de um trabalho escolar por um grupo de alunos do curso de Engenharia de Controle e Automação do IFPB - Campus Cajazeiras. A ECOSIT empresa de reciclagem que faz a triagem automatizada de resíduos recicláveis e tem como missão os 3R (Reduzir, Reutilizar, Reciclar), a alimentação elétrica da empresa é composta por geradores eólicos. O nome da mesma tem origem Romena e seu significado seria “Local Ecológico”.
