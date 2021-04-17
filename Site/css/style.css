@@ -113,7 +113,6 @@ nav ul li ul li a{
     height: 27rem;
     padding: 0 0 0 47rem;
     margin-top: -9rem;
-   
 }
 
 #Sobre{
@@ -136,6 +135,7 @@ nav ul li ul li a{
 }
 
 .style .img{
+    height: 18rem;
     padding: 9rem 0 0 6rem;
 }
 
@@ -165,6 +165,26 @@ nav ul li ul li a{
     height: 100%
 }
 
+.titulo1{
+    font-family: Comfortaa;
+    font-size: 1.5rem;
+    display: flex;
+    text-align: center;
+    padding: 7rem 0 0 42rem;
+}
+
+#Desafio1 a{
+    padding: 3rem 2rem 0 0;
+}
+
+.texto1{
+    font-family: Comfortaa;
+    font-size: .9rem;
+    display: flex;
+    text-align: center;
+    padding: 2rem 0 0 41rem;
+}
+
 #Desafio2{
     display: grid;
     background-image: url(../img/Fundo4.jpg);
@@ -173,6 +193,10 @@ nav ul li ul li a{
     background-size: cover;
     width: 100%;
     height: 100%
+}
+
+#Desafio2 a{
+    padding: 3rem 2rem 0 0;
 }
 
 #Desafio3{
@@ -185,5 +209,62 @@ nav ul li ul li a{
     height: 100%
 }
 
+#Desafio3 a{
+    padding: 3rem 2rem 0 0;
+}
 
+#Desafio4{
+    display: grid;
+    background-image: url(../img/fundo6.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%
+}
+
+#Desafio4 a{
+    padding: 8rem 2rem 0 0;
+}
+
+#impactos{
+    display: grid;
+    background-image: url(../img/fundo7.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%
+}
+
+.impact{
+    font-family: Comfortaa;
+    font-size: 3.4rem;
+    display: flex;
+    justify-content: center;
+    padding: 5rem 0 0 0;
+
+}
+
+.texto{
+    font-family: Comfortaa;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.if{
+    height: 3.5rem;
+    padding: 0 3rem 0 0;
+}
+
+.logo1{
+    height: 3.4rem;
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+    padding: 4rem 0 0 0;
+}
 
